@@ -1,0 +1,28 @@
+#title  {
+color:blue;
+background-color: greenyellow;
+text-align: center;
+border: 10px;
+}
+.cheff{
+    height: 300px;
+    width: 300px;
+    align-content: center;
+}
+.re{
+    height: 400px;
+    width: 400px;
+
+}
+.info_H{
+    font-size: medium;
+    font-weight: 100;
+    color: greenyellow;
+    background-color:gray;
+}
+.thank{
+    padding: 100px;
+    margin: 200px;
+    background-color: greenyellow;
+    border: 500px;
+}
